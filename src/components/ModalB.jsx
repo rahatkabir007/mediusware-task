@@ -114,7 +114,7 @@ const ModalB = () => {
                         <div className="modal-header">
                             <div className="d-flex flex-column row-gap-3 justify-content-start w-100">
                                 <div>
-                                    <h3 className="modal-title">All Contacts</h3>
+                                    <h3 className="modal-title">US Contacts</h3>
                                 </div>
 
                                 <div className="d-flex column-gap-2 justify-content-between align-items-center ">
