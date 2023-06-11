@@ -52,7 +52,6 @@ const ModalB = () => {
 
     const filterContacts = () => {
         let filteredContacts = contacts;
-
         if (onlyEven) {
             filteredContacts = filteredContacts.filter((contact) => contact.id % 2 === 0);
         }
