@@ -40,6 +40,10 @@ const ModalA = () => {
                     <div className="modal-content">
                         <div className="modal-header">
                             <div className="d-flex flex-column row-gap-3 justify-content-start w-100">
+                                <div>
+                                    <h3 className="modal-title">US Contacts</h3>
+                                </div>
+
                                 <div className="d-flex column-gap-2 justify-content-between align-items-center ">
                                     <div className="d-flex column-gap-2">
                                         <Link to="/modalA" className="btn btn-primary" style={{ backgroundColor: '#46139f', borderColor: '#46139f', fontSize: '20px' }}>
